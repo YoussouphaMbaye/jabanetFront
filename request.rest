@@ -1,0 +1,7 @@
+GET   http://127.0.0.1:8000/api/currentUser/
+Content-Type:application/json
+Authorization:Bearer kYW6Ds4GADMgR6PX3ZEJkyUQdj7rAc 
+
+
+
+
